@@ -37,7 +37,7 @@ and many more, including code architecture and reusability
 
 ```bash
 git clone https://github.com/Krish1rst/Animated-Gaming-website.git
-cd award-winning-website
+cd Animated-Gaming-website
 ```
 
 **Installation**
