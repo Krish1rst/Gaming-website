@@ -1,4 +1,3 @@
-<div align="center">
 
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -34,20 +33,10 @@ and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
-
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/award-winning-website.git
+git clone https://github.com/Krish1rst/Animated-Gaming-website.git
 cd award-winning-website
 ```
 
